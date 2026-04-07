@@ -1,0 +1,98 @@
+title,genre,poster,rating
+Inception,Action,C:\Users\ashwa\OneDrive\Desktop\movie recommendation\backend\inception.jpg,6.0
+Titanic,Romance,C:\Users\ashwa\OneDrive\Desktop\movie recommendation\backend\titanic.webp,7.3
+The Hangover,Comedy,https://example.com/posters/The_Hangover.jpg,8.6
+The Matrix,Drama,https://example.com/posters/The_Matrix.jpg,9.0
+Avatar,Horror,https://example.com/posters/Avatar.jpg,10.3
+Forrest Gump,Sci-Fi,https://example.com/posters/Forrest_Gump.jpg,6.6
+Interstellar,Thriller,https://example.com/posters/Interstellar.jpg,7.0
+The Notebook,Action,https://example.com/posters/The_Notebook.jpg,8.3
+Deadpool,Romance,https://example.com/posters/Deadpool.jpg,9.6
+Joker,Comedy,https://example.com/posters/Joker.jpg,10.0
+Up,Drama,https://example.com/posters/Up.jpg,6.3
+Frozen,Horror,https://example.com/posters/Frozen.jpg,7.6
+The Conjuring,Sci-Fi,https://example.com/posters/The_Conjuring.jpg,8.0
+It,Thriller,https://example.com/posters/It.jpg,9.3
+Annabelle,Action,https://example.com/posters/Annabelle.jpg,10.6
+Star Wars,Romance,https://example.com/posters/Star_Wars.jpg,6.0
+Avengers,Comedy,https://example.com/posters/Avengers.jpg,7.3
+Iron Man,Drama,https://example.com/posters/Iron_Man.jpg,8.6
+Captain Marvel,Horror,https://example.com/posters/Captain_Marvel.jpg,9.0
+Doctor Strange,Sci-Fi,https://example.com/posters/Doctor_Strange.jpg,10.3
+The Dark Knight,Thriller,https://example.com/posters/The_Dark_Knight.jpg,6.6
+Finding Nemo,Action,https://example.com/posters/Finding_Nemo.jpg,7.0
+Toy Story,Romance,https://example.com/posters/Toy_Story.jpg,8.3
+Coco,Comedy,https://example.com/posters/Coco.jpg,9.6
+Shrek,Drama,https://example.com/posters/Shrek.jpg,10.0
+Mad Max,Horror,https://example.com/posters/Mad_Max.jpg,6.3
+Black Panther,Sci-Fi,https://example.com/posters/Black_Panther.jpg,7.6
+The Godfather,Thriller,https://example.com/posters/The_Godfather.jpg,8.0
+Pulp Fiction,Action,https://example.com/posters/Pulp_Fiction.jpg,9.3
+The Shawshank Redemption,Romance,https://example.com/posters/The_Shawshank_Redemption.jpg,10.6
+The Silence of the Lambs,Comedy,https://example.com/posters/The_Silence_of_the_Lambs.jpg,6.0
+Fight Club,Drama,https://example.com/posters/Fight_Club.jpg,7.3
+La La Land,Horror,https://example.com/posters/La_La_Land.jpg,8.6
+Parasite,Sci-Fi,https://example.com/posters/Parasite.jpg,9.0
+Minions,Thriller,https://example.com/posters/Minions.jpg,10.3
+Zootopia,Action,https://example.com/posters/Zootopia.jpg,6.6
+Moana,Romance,https://example.com/posters/Moana.jpg,7.0
+Inside Out,Comedy,https://example.com/posters/Inside_Out.jpg,8.3
+Luca,Drama,https://example.com/posters/Luca.jpg,9.6
+Encanto,Horror,https://example.com/posters/Encanto.jpg,10.0
+Tenet,Sci-Fi,https://example.com/posters/Tenet.jpg,6.3
+Dune,Thriller,https://example.com/posters/Dune.jpg,7.6
+Nope,Action,https://example.com/posters/Nope.jpg,8.0
+Us,Romance,https://example.com/posters/Us.jpg,9.3
+Get Out,Comedy,https://example.com/posters/Get_Out.jpg,10.6
+Everything Everywhere All At Once,Drama,https://example.com/posters/Everything_Everywhere_All_At_Once.jpg,6.0
+1917,Horror,https://example.com/posters/1917.jpg,7.3
+Jojo Rabbit,Sci-Fi,https://example.com/posters/Jojo_Rabbit.jpg,8.6
+Knives Out,Thriller,https://example.com/posters/Knives_Out.jpg,9.0
+Glass Onion,Action,https://example.com/posters/Glass_Onion.jpg,10.3
+Bullet Train,Romance,https://example.com/posters/Bullet_Train.jpg,6.6
+The Whale,Comedy,https://example.com/posters/The_Whale.jpg,7.0
+Elvis,Drama,https://example.com/posters/Elvis.jpg,8.3
+Oppenheimer,Horror,https://example.com/posters/Oppenheimer.jpg,9.6
+Barbie,Sci-Fi,https://example.com/posters/Barbie.jpg,10.0
+Mission Impossible,Thriller,https://example.com/posters/Mission_Impossible.jpg,6.3
+John Wick,Action,https://example.com/posters/John_Wick.jpg,7.6
+Skyfall,Romance,https://example.com/posters/Skyfall.jpg,8.0
+Spectre,Comedy,https://example.com/posters/Spectre.jpg,9.3
+The Batman,Drama,https://example.com/posters/The_Batman.jpg,10.6
+Logan,Horror,https://example.com/posters/Logan.jpg,6.0
+Wolverine,Sci-Fi,https://example.com/posters/Wolverine.jpg,7.3
+X-Men,Thriller,https://example.com/posters/X-Men.jpg,8.6
+The Flash,Action,https://example.com/posters/The_Flash.jpg,9.0
+Aquaman,Romance,https://example.com/posters/Aquaman.jpg,10.3
+Ant-Man,Comedy,https://example.com/posters/Ant-Man.jpg,6.6
+Guardians of the Galaxy,Drama,https://example.com/posters/Guardians_of_the_Galaxy.jpg,7.0
+Spider-Man: No Way Home,Horror,https://example.com/posters/Spider-Man:_No_Way_Home.jpg,8.3
+Home Alone,Sci-Fi,https://example.com/posters/Home_Alone.jpg,9.6
+The Grinch,Thriller,https://example.com/posters/The_Grinch.jpg,10.0
+Santa Clause,Action,https://example.com/posters/Santa_Clause.jpg,6.3
+Elf,Romance,https://example.com/posters/Elf.jpg,7.6
+Miracle on 34th Street,Comedy,https://example.com/posters/Miracle_on_34th_Street.jpg,8.0
+The Polar Express,Drama,https://example.com/posters/The_Polar_Express.jpg,9.3
+Sing,Horror,https://example.com/posters/Sing.jpg,10.6
+Trolls,Sci-Fi,https://example.com/posters/Trolls.jpg,6.0
+Paddington,Thriller,https://example.com/posters/Paddington.jpg,7.3
+Kung Fu Panda,Action,https://example.com/posters/Kung_Fu_Panda.jpg,8.6
+Ratatouille,Romance,https://example.com/posters/Ratatouille.jpg,9.0
+Cars,Comedy,https://example.com/posters/Cars.jpg,10.3
+Wall-E,Drama,https://example.com/posters/Wall-E.jpg,6.6
+Bolt,Horror,https://example.com/posters/Bolt.jpg,7.0
+Rio,Sci-Fi,https://example.com/posters/Rio.jpg,8.3
+Happy Feet,Thriller,https://example.com/posters/Happy_Feet.jpg,9.6
+Despicable Me,Action,https://example.com/posters/Despicable_Me.jpg,10.0
+Hotel Transylvania,Romance,https://example.com/posters/Hotel_Transylvania.jpg,6.3
+Ice Age,Comedy,https://example.com/posters/Ice_Age.jpg,7.6
+The Croods,Drama,https://example.com/posters/The_Croods.jpg,8.0
+Brave,Horror,https://example.com/posters/Brave.jpg,9.3
+Tangled,Sci-Fi,https://example.com/posters/Tangled.jpg,10.6
+Big Hero 6,Thriller,https://example.com/posters/Big_Hero_6.jpg,6.0
+Wreck-It Ralph,Action,https://example.com/posters/Wreck-It_Ralph.jpg,7.3
+How to Train Your Dragon,Romance,https://example.com/posters/How_to_Train_Your_Dragon.jpg,8.6
+Megamind,Comedy,https://example.com/posters/Megamind.jpg,9.0
+Cloudy with a Chance of Meatballs,Drama,https://example.com/posters/Cloudy_with_a_Chance_of_Meatballs.jpg,10.3
+The Lego Movie,Horror,https://example.com/posters/The_Lego_Movie.jpg,6.6
+The Peanuts Movie,Sci-Fi,https://example.com/posters/The_Peanuts_Movie.jpg,7.0
